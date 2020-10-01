@@ -38,8 +38,8 @@ ul li a:hover{
 
 .title{
     position : absolute;
-    top :50%;
-    left: 50%;
+    top :51%;
+    left: 51%;
     transform :translate(-50%,-50%);
     }
 
@@ -50,8 +50,8 @@ ul li a:hover{
 
 .button{
     position: absolute;
-    top: 60%;
-    left:21%;
+    top: 62%;
+    left:22%;
     
     display:inline-block;
   
@@ -61,7 +61,7 @@ ul li a:hover{
     border : 1px solid #fff;
     text-decoration: none;
 color : #fff;
-padding: 10px 8px ;
+padding: 12px 10px ;
 transition :0.6s ease;
 
 }
